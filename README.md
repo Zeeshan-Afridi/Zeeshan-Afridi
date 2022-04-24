@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zeeshan-Afridi
-- 👀 I’m interested in software development coding in specificllly, python and java are on my favourite list.
+- 👀 I’m interested in software development, both documentation and coding, python and java are on my favourite list for development.
 - 🌱 I’m currently learning ... advance python API development and web-Scrapping
-- 📫 How to reach me on LinkedIn, Fiverr, Upwork and Facebook.
 
 <!---
 Zeeshan-Afridi/Zeeshan-Afridi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
