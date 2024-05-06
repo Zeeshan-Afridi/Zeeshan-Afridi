@@ -3,7 +3,7 @@ Hello there! 👋 I'm Zeeshan Afridi
   
 🚀 Passionate software engineer deeply interested in Artificial Intelligence (AI) and Machine Learning (ML).
 
-🌟 Continuously exploring cutting-edge technologies and expanding knowledge in Python.
+🌟 Continuously exploring cutting-edge technologies and expanding knowledge in AI era.
 
 💡 Fascinated by web scraping and automation, utilizing Python to extract valuable data from websites and automate tasks.
 
